@@ -1,6 +1,6 @@
 <div>
   <h1 align="center">Oi Tudo bem? Eu sou o Nicolas Nobrega</i></a> 😃</h1>
- <h2 <p align="center">Estudo Desenvolvimento Back-End  </h2>
+ <h2 <p align="center">Estudo Análise e Desenvolvimento de Sistemas  </h2>
    
     
 
