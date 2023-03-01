@@ -1,5 +1,5 @@
 <div>
-  <h1 align="center">Oi Tudo bem? Eu sou o Nicolas Nobrega</i></a> 😃</h1>
+  <h1 align="center">Oi Tudo bem? Eu sou o Nícolas Nóbrega</i></a> 😃</h1>
  <h2 <p align="center">Estudo Análise e Desenvolvimento de Sistemas  </h2>
    
     
@@ -15,7 +15,5 @@
   <img align="center" alt="Nicolas-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Nicolas-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Nicolas-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Nicolas-C" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" />
-  <img align="center" alt="Nicolas-Github" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
   <img align="center" alt="Nicolas-Java" height="30" width="40" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/java/java-original.svg" />
   
