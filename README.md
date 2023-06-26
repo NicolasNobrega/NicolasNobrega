@@ -32,6 +32,7 @@
 
 
 <div align="center">
+	 <h2 <p align="center"> Status </h2> 
   <a href="https://github.com/NicolasNobrega">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=NicolasNobrega&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NicolasNobrega&layout=compact&langs_count=7&theme=cobalt"/>
