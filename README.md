@@ -5,7 +5,7 @@
     <br/>
     <a href="https://www.linkedin.com/in/nicolasnobregadev">
       <img align="center" alt="Nicolas Linkedin" width="22px"             
-      src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+      src="" />
   </a>
   <a href="mailto:nicolas1nobrega@gmail.com">
   <img align="center" alt="Mail Nicolas Nobrega" width="22px" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" />
