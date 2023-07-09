@@ -4,11 +4,12 @@
    <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
     <br/>
     <a href="https://www.linkedin.com/in/nicolasnobregadev">
-      <img align="center" alt="Nicolas Linkedin" width="22px"             
-      src="" />
+      <img align="center" alt="Nicolas Linkedin"           
+      src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:nicolas1nobrega@gmail.com">
-  <img align="center" alt="Mail Nicolas Nobrega" width="22px" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" />
+  <img align="center" alt="Mail Nicolas Nobrega" 
+   src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
  </h2>
