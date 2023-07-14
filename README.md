@@ -1,3 +1,4 @@
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=NicolasNobrega.NicolasNobrega" />
 <div>
   <h1 align="center">Olá, Meu nome é Nícolas Alves Nóbrega</i></a> 😃</h1>
  <h2 <p align="center">Não deixe de conferir meus projetos e obrigado pela visita!
@@ -30,13 +31,13 @@
 
 <br/>
 
-
-
-<div align="center">
-	 <h2 <p align="center"> Status </h2> 
-  <a href="https://github.com/NicolasNobrega">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=NicolasNobrega&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NicolasNobrega&layout=compact&langs_count=7&theme=cobalt"/>
+<div align=center>
+	<h2 <p align="center"> ⚡ Status ⚡ </h2> 
+  <img width=390 src="https://streak-stats.demolab.com/?user=NicolasNobrega&count_private=true&theme=react&border_radius=10" 		alt="streak stats"/>
+  <img width=368 src="https://github-readme-stats.vercel.app/api?username=NicolasNobrega&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  <br/>
+  <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NicolasNobrega&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </div>
+
  
   
